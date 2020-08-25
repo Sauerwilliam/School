@@ -1,12 +1,12 @@
 ﻿using System;
+using System.Diagnostics;
 
-namespace ConsoleApp1
+class Program
 {
-    class Program
+    
+
+    static void Main(String[] args) //another entrypoint!!! Compile Error  
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        Console.WriteLine("Hello World!");
     }
 }
