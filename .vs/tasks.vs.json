@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ConsoleApp1",
+      "appliesTo": "Math/ConsoleApp1/ConsoleApp1.sln",
+      "type": "launch"
+    }
+  ]
+}
