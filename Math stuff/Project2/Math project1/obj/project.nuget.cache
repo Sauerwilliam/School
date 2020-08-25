@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfMl1ErEkLl1y/Wfm4vBF7aqaVmVYiFJp3FKSl6HA4OR++JlOCqau8DXHH0bCMq3uhc2AyolCHmWcnfiienEsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leilani\\source\\repos\\Math stuff\\Project2\\Math project1\\Math project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leilani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

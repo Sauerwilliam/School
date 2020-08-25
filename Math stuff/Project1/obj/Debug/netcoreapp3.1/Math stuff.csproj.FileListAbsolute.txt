@@ -1,0 +1,4 @@
+C:\Users\leilani\source\repos\Math stuff\obj\Debug\netcoreapp3.1\Math stuff.csprojAssemblyReference.cache
+C:\Users\leilani\source\repos\Math stuff\obj\Debug\netcoreapp3.1\Math stuff.AssemblyInfoInputs.cache
+C:\Users\leilani\source\repos\Math stuff\obj\Debug\netcoreapp3.1\Math stuff.AssemblyInfo.cs
+C:\Users\leilani\source\repos\Math stuff\obj\Debug\netcoreapp3.1\Math stuff.csproj.CoreCompileInputs.cache
