@@ -25,6 +25,7 @@ namespace Math_project1
                 {
                     System.Console.WriteLine($"{word}");
 
+
                 }
 
                 if (x >= 1)
