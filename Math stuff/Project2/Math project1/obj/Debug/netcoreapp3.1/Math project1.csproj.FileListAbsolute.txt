@@ -10,3 +10,16 @@ C:\Users\leilani\source\repos\Math stuff\Project2\Math project1\obj\Debug\netcor
 C:\Users\leilani\source\repos\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.dll
 C:\Users\leilani\source\repos\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.pdb
 C:\Users\leilani\source\repos\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.genruntimeconfig.cache
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\bin\Debug\netcoreapp3.1\Math project1.exe
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\bin\Debug\netcoreapp3.1\Math project1.deps.json
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\bin\Debug\netcoreapp3.1\Math project1.runtimeconfig.json
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\bin\Debug\netcoreapp3.1\Math project1.runtimeconfig.dev.json
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\bin\Debug\netcoreapp3.1\Math project1.dll
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\bin\Debug\netcoreapp3.1\Math project1.pdb
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.csprojAssemblyReference.cache
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.AssemblyInfoInputs.cache
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.AssemblyInfo.cs
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.csproj.CoreCompileInputs.cache
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.dll
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.pdb
+C:\Users\leilani\Source\Repos\School\Math stuff\Project2\Math project1\obj\Debug\netcoreapp3.1\Math project1.genruntimeconfig.cache

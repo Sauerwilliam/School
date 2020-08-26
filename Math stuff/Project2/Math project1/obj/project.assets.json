@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leilani\\source\\repos\\Math stuff\\Project2\\Math project1\\Math project1.csproj",
+      "projectUniqueName": "C:\\Users\\leilani\\Source\\Repos\\School\\Math stuff\\Project2\\Math project1\\Math project1.csproj",
       "projectName": "Math project1",
-      "projectPath": "C:\\Users\\leilani\\source\\repos\\Math stuff\\Project2\\Math project1\\Math project1.csproj",
+      "projectPath": "C:\\Users\\leilani\\Source\\Repos\\School\\Math stuff\\Project2\\Math project1\\Math project1.csproj",
       "packagesPath": "C:\\Users\\leilani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leilani\\source\\repos\\Math stuff\\Project2\\Math project1\\obj\\",
+      "outputPath": "C:\\Users\\leilani\\Source\\Repos\\School\\Math stuff\\Project2\\Math project1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

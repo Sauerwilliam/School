@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\history",
-    "\\Math",
-    "\\Math\\ConsoleApp1"
+    "\\Math stuff",
+    "\\Math stuff\\Project2",
+    "\\Math stuff\\Project2\\Math project1"
   ],
+  "SelectedNode": "\\Math stuff\\Project2\\Math project1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
